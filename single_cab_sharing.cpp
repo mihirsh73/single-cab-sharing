@@ -8,7 +8,7 @@ using namespace std;
 #define M 5
 #define V 5
 
-int cars[V][3]={{0,0,-1},{1,0,-1},{2,0,-1},{3,0,-1},{4,0,-1}};
+int cars[V][3]={{0,0,-1},{1,0,-1},{2,0,-1},{3,0,-1},{4,0,-1}};  // cab located at given location
 int path[M][M][M];
 int cost[M][M];
 
